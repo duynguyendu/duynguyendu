@@ -1,5 +1,13 @@
-## Hi there 👋
+## Duy Nguyen
 
+Hey 👋! My name is Duy! You can pronounced it like "Dewey".
+
+I am based in Wellington, New Zealand. As for moment, I am pursuing Master's in Computer Science, focus mainly on AI, AI's application and programming languages development.
+My main interest is in low-level programming such as OS, network and Linux. Outsides of that, I am also interested in deep learning, especially transfomer that powers LLM.
+
+Professionally, I focus on software development in backend, DevOps, and software architecture. I like to build maintainable and scalable software. I believe the most effective way to do so is providing a clear context of why this is here, both in business and technical. This allows others to have a "conversation" with previous developers, understand the decision process and evaluate whether those decisions remain relevant to continue growing the application.
+
+Feel free to contact me if you want to talk about software programming philosophy, about the use of AI or just want to have a chat. :)
 <!--
 **duynguyendu/duynguyendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
